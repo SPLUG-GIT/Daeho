@@ -2,22 +2,24 @@
 name: "[Feature Request]"
 about: Suggest Your Idea
 title: ''
-labels: ''
-assignees: ''
+labels: enhancement
+assignees: DAEHOCHANG
 
 ---
 
-##Which type suggestion?
-- [ ]UI
-- [ ]Internal Feature
-- [ ]ETC
-##If you choice ETC, Your suggestions
+## Which type suggestion?
+- [ ] UI
+- [ ] Internal Feature
+- [ ] ETC
+## If you choice ETC, Your suggestions
 ```
 ```
-##Benefit of Feature
+## Benefit of Feature
 ```
 ```
-##Example of Feature
+## Example of Feature
 ```
 ```
-##Considerations of this Features
+## Considerations of this Features
+```
+```
